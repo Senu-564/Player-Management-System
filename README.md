@@ -1,7 +1,6 @@
 # Player Management System
 
-**Module:** CSE 4002 – Fundamentals in Programming  
-**Qualification:** HD in Computing and Software Engineering / Network Technology and Cyber Security
+**Module:** CSE 4002 – Fundamentals in Programming
 
 ---
 
